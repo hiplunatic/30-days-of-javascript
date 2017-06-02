@@ -1,4 +1,4 @@
-## 30 days of vanilla JS fun times!
+# 30 days of vanilla JS fun times!
 
 Learning vanilla javascript in 30 days, no frameworks, no libraries!
 
